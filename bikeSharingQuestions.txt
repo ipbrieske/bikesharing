@@ -1,0 +1,5 @@
+Bike Sharing questions - 
+
+How many miles does each bike travel each day?
+How many trips per bike per day?
+What are some hotspot areas of the city for bike sharing travel?
