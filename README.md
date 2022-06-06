@@ -1,13 +1,13 @@
 # Overview 
-This presentation is an analysis of bike-sharing data from New York City to project performance of a a similar service in Des Moines, IA. The project data originates from !(https://ride.citibikenyc.com/system-data), provided via a partnership between CitiBank and Lyft. 
+This presentation is an analysis of bike-sharing data from New York City to project performance of a a similar service in Des Moines, IA. The project data originates from [CitiBike](https://ride.citibikenyc.com/system-data), provided via a partnership between CitiBank and Lyft. 
 
 These initial slides have been built using Tableau - a data visualization software meant to create beautiful, professional presentations using data in a litany of forms - seek to visualize ridership information along a number of axes, to get a better sense of the userbase of the bikesharing network. 
 
-The Tableau Story can be accessed at ![this link](https://public.tableau.com/app/profile/isaac.brieske/viz/Citibike_Challenge_16543247255220/Story1?publish=yes) to follow along using the interactive aspect of the presentation. 
+The Tableau Story can be accessed at [this link](https://public.tableau.com/app/profile/isaac.brieske/viz/Citibike_Challenge_16543247255220/Story1?publish=yes) to follow along using the interactive aspect of the presentation. 
 
 # Results
 
-Our initial analysis has been split into 7 sections, each seeking to answer questions about the bikesharing network. Users are encouraged to follow along with the ![Tableau Story](https://public.tableau.com/app/profile/isaac.brieske/viz/Citibike_Challenge_16543247255220/Story1?publish=yes). 
+Our initial analysis has been split into 7 sections, each seeking to answer questions about the bikesharing network. Users are encouraged to follow along with the [Tableau Story](https://public.tableau.com/app/profile/isaac.brieske/viz/Citibike_Challenge_16543247255220/Story1?publish=yes). 
 
 ## Trips per Day
 
